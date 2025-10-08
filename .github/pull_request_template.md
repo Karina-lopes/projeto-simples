@@ -4,7 +4,7 @@ Auditor: Seu Nome Completo
 
 ### 🔍 Checklist de Auditoria
 
-- [ ] Branch correta: A PR foi criada a partir da branch adequada 
+- [ ] Branch correta: A PR foi criada a partir da branch adequada.
 - [ ] Commits seguem padrão: As mensagens estão de acordo com o padrão definido
 - [ ] PR revisado: Há revisores atribuídos e/ou comentários de revisão no PR.
 - [ ] Pipeline executado: CI/CD foi acionado e executado com sucesso.
